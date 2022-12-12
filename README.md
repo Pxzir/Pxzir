@@ -1,0 +1,6 @@
+- Hi, I’m @Pxzir.
+- I’m interested in Web Development.
+- I’m currently learning HTML and CSS.
+- I’m looking to collaborate on anything related to tech.
+- How to reach me: capellandev@gmail.com.
+- I am currently a CS Student at LCCC.
