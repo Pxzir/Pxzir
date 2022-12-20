@@ -1,4 +1,4 @@
-- Hi, I’m @Pxzir.
+- Hi, I’m Jorge Capellan.
 - I’m interested in Web Development.
 - I’m currently learning HTML and CSS.
 - I’m looking to collaborate on anything related to tech.
