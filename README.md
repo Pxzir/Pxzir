@@ -1,6 +1,6 @@
 - Hi, I’m Jorge Capellan.
 - I’m interested in Web Development.
-- I’m currently learning HTML and CSS.
+- I’m currently learning HTML, CSS, JS, Git, & Github.
 - I’m looking to collaborate on anything related to tech.
-- How to reach me: capellandev@gmail.com.
-- I am currently a CS Student at LCCC.
+- How to reach me: jorgecapellan98@gmail.com.
+- I am currently a Web Developer Student at LCCC.
